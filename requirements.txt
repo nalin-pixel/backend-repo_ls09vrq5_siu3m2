@@ -5,3 +5,7 @@ pydantic>=2.9.0
 pymongo==4.6.0
 requests==2.31.0
 email-validator==2.1.0
+Pillow==10.3.0
+imageio==2.34.0
+imageio-ffmpeg==0.4.9
+numpy==1.26.4
